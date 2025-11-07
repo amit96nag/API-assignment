@@ -46,3 +46,10 @@ Bug Report
 https://docs.google.com/spreadsheets/d/1WD2CVKjk6mkh68de5A3eD_9eIpsrB6Lp/edit?usp=sharing&ouid=113180828003064515171&rtpof=true&sd=true
 postman Documentation
 https://documenter.getpostman.com/view/29908933/2sAYdkJ9m1
+
+## 👨‍💻 Author
+**Amit Nag**  
+📍 Bangladesh  
+💼 *Software QA & Test Enthusiast*  
+🔗 [GitHub Profile](https://github.com/amit96nag)
+
